@@ -2,4 +2,6 @@
     <string name="app_name">MovieApp</string>
     <string name="bottom_menu_main">Main</string>
     <string name="bottom_menu_search">Search</string>
+    <string name="title_core">Core</string>
+    <string name="title_core2">Core2</string>
 </resources>
